@@ -58,7 +58,8 @@ const nextStep = () => {
   justify-content: center;
   min-height: 60vh;
   margin: 0 auto;
-  width: 500px; // 可选：固定宽度
+  width: 100%;
+  max-width: 500px;
   padding: 30px;
   border: 1px solid #e0e0e0; // 浅灰色边框
   background-color: #fff; // 白色背景
